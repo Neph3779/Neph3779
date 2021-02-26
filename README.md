@@ -19,7 +19,7 @@ Any feedback is welcome! 😆
 
 
 ### 📬 Contacts
- - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:neph3779@gmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:neph3779@gmail.com)
 
 
 
