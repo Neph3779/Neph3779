@@ -1,4 +1,4 @@
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A3DDCB&title_bg=%2303506F&icon=leaflet.svg&icon_color=%23A3DDCB&title=Hits%21&edge_flat=true)](https://hits.seeyoufarm.com) 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNeph3779&count_bg=%23A3DDCB&title_bg=%2303506F&icon=leaflet.svg&icon_color=%23A3DDCB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 👋 Hi My name is Neph, I'm studying iOS to be iOS developer. 
 
