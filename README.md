@@ -35,10 +35,10 @@
 - [Pump - 내 주변의 리필스테이션](https://github.com/YAPP-Github/21st-ALL-Rounder-Team-1-iOS/pulls)
 
 
-## Third Party Library PRs
+## Contributed
 
-- [CollectionViewPagingLayout (공식예제 문법적 오류 제보)](https://github.com/amirdew/CollectionViewPagingLayout/pull/78)
-- [RxSwift (공식예제 print 결과물 오류 제보)](https://github.com/ReactiveX/RxSwift/pull/2471)
+- [CollectionViewPagingLayout](https://github.com/amirdew/CollectionViewPagingLayout/pull/78)
+- [RxSwift](https://github.com/ReactiveX/RxSwift/pull/2471)
 
 ## Projects
 <details>
