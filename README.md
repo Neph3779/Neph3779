@@ -21,6 +21,6 @@
 - [RxSwift](https://github.com/ReactiveX/RxSwift/pull/2471)
 
 ## Projects
-- [Pump - 내 주변의 리필스테이션](https://github.com/YAPP-Github/21st-ALL-Rounder-Team-1-iOS)
+- [Pump - 내 주변의 리필스테이션](https://github.com/YAPP-Github/21st-ALL-Rounder-Team-1-iOS) **(총 9팀 중 종합 1위, 개발부문 1위, 기획부문 1위 수상)**
 - [살까말까 - IT 전자제품 리뷰모음](https://github.com/Neph3779/BuyOrNot)
 - [Presentation Reference (팀원에게 Clean Architecture를 소개하기 위해 제작한 ppt)](https://github.com/Neph3779/CleanArchitecture-Presentation)
