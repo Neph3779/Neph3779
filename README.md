@@ -1,5 +1,5 @@
 **Studying**
-- [Swift Language Guide 정독 스터디](https://github.com/YAPP-Github/22nd-Study-Swift-Language-Guide)
+- [Daily-Study](https://github.com/Neph3779/Daily-Study)
 
 **Reading**
 - [객체지향의 사실과 오해](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=60550259)
